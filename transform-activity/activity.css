@@ -1,5 +1,12 @@
 main {
-transform:skewy(-15deg);
+transform:skewy(-10deg);
 font-weight:700;
 text-shadow: 1px 1px grey;
+height: 400px;
+
+}
+.container {
+    width: 600px;
+    margin: auto;
+    
 }

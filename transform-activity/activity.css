@@ -1,3 +1,5 @@
 main {
-
+transform:skewy(-15deg);
+font-weight:700;
+text-shadow: 1px 1px grey;
 }
